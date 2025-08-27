@@ -8,7 +8,7 @@
 
 ### 🔧 Tech Stack
 - **Languages:** Golang, Python, Bash, Java
-- **Infra:** Kubernetes, Helm, Terraform, Docker, eBPF (learning), Envoy (beginner)
+- **Infra:** **Infra:** Kubernetes, Helm, Terraform, Docker, Prometheus, Grafana, FluxCD, Nginx, WireGuard/IPSec, HAProxy, ELK
 - **Cloud:** AWS, GCP, On-Premise hybrid systems
 - **Interests:** Service Mesh, System Design, LLM Infra, Observability, Chaos Engineering
 

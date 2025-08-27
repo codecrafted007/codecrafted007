@@ -17,7 +17,6 @@
 ### 📂 Notable Projects
 
 #### ⚡ autozap
-**Structured, opinionated logging wrapper for Go using Uber's Zap logger**
 
 `autozap` is a lightweight and extensible logging module designed for production-grade Go services. It wraps around [Zap](https://github.com/uber-go/zap) and adds:
 

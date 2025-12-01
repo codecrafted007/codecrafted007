@@ -28,17 +28,6 @@
 
 ---
 
-#### ▶️ upgrade-service
-Go-based upgrade engine handling distributed rollouts across hybrid edge clusters.
-
-#### ▶️ mongo_k8s_migrate_offline.sh
-Shell tool for offline MongoDB migrations across Kubernetes clusters.
-
-#### ▶️ File Chunk Downloader
-Python utility that downloads large files in chunks and stitches them with resume support and disk space validation.
-
----
-
 > I'm always looking to contribute to performance-sensitive backend problems and production-first Go tooling.
 
 📢 **Reach me at**: [LinkedIn](https://www.linkedin.com/in/brajeshpant) | [brajesh_pant@hotmail.com](mailto:brajesh_pant@hotmail.com)
